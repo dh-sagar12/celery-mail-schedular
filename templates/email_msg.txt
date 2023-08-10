@@ -1,0 +1,10 @@
+Hello {{name| safe }}
+
+Thank you for your review. we will look forward to your email asap.
+
+
+.......YOUR REVIEW WAS ........
+{{review| safe}}
+
+Thank you
+
